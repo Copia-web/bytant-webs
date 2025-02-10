@@ -11,4 +11,5 @@ export default defineConfig({
     port: 5174,      // You can customize this port if needed
   },
   assetsInclude: ['**/*.PNG'], // Include PNG assets in your build
+  base: "/bytant-webs/",
 })
